@@ -7,22 +7,3 @@ body {
   height: 100%;
   width: 100%;  
 }
-
-#navbar{
-  position:fixed;
-top:0;
-  left:0;
-  width: 100%;
-  background: #030371;
-  z-index: 999;
-
-  }
-
-nav {
-  float: right;
-  color: white;
-  margin: 45px 60px 0 0;
-  font-size: 18px;
-  font-weight: bold;
-      word-spacing: 10px;
-}
